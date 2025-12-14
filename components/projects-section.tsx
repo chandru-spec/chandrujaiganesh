@@ -9,7 +9,7 @@ const projects = [
     description:
       "AI-powered invoice extraction and document automation platform. Processes thousands of documents with 99%+ accuracy, reducing manual data entry by 90%.",
     tags: ["Document AI", "OCR", "Automation"],
-    image: "/images/screenshot-202025-12-13-20003603.png",
+    image: "/chandrujaiganesh/images/screenshot-202025-12-13-20003603.png",
     link: "https://www.linkedin.com/posts/chandru-jaiganesh_aiautomation-invoiceprocessing-documentai-activity-7405330815448121344-5AFm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADseWGIBYHLXCAujBP0mncgWOlUihdigYNQ",
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     description:
       "Agent-based AI medical intelligence system with multilingual and voice support. Provides accurate health information with real-time RAG capabilities.",
     tags: ["RAG", "LLMs", "Healthcare"],
-    image: "/images/medibot-agentic.png",
+    image: "/chandrujaiganesh/images/medibot-agentic.png",
     link: "https://www.linkedin.com/posts/vikram-vm_ai-medicalai-healthcareinnovation-activity-7404732223381221376-5FJb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADseWGIBYHLXCAujBP0mncgWOlUihdigYNQ",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     description:
       "AI-driven email automation platform that sends personalized emails to single or multiple recipients using natural language prompts. Streamlines communication workflows.",
     tags: ["Email", "AI", "Automation", "NLP"],
-    image: "/images/email-automation.png",
+    image: "/chandrujaiganesh/images/email-automation.png",
     link: "https://medium.com/@jpjchandru/how-i-built-an-ai-email-automator-that-cuts-manual-outreach-by-80-ffaf061c6cfd",
   },
 ]
